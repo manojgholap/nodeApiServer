@@ -1,0 +1,22 @@
+{
+  "name": "nodeapiserver",
+  "version": "1.0.0",
+  "description": "apis in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manojgholap/nodeApiServer.git"
+  },
+  "author": "Manoj Gholap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manojgholap/nodeApiServer/issues"
+  },
+  "homepage": "https://github.com/manojgholap/nodeApiServer#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
