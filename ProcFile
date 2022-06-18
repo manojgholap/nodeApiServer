@@ -1,1 +1,2 @@
 web: node index.js
+web: voila --voila.ip=0.0.0.0 --port=$PORT --no-browser
